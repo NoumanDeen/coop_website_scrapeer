@@ -1,7 +1,5 @@
 # coop_website_scrapeer
 
-Coop Web Scraper
-
 URL of website 
 https://shop.coop.co.uk
 
