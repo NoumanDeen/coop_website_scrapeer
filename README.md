@@ -2,6 +2,9 @@
 
 Coop Web Scraper
 
+URL of website 
+https://shop.coop.co.uk
+
 Description
 This project is a web scraper designed to extract product information from the Coop UK website. The scraper gathers details such as product name, URL, brand name, description, ingredients, suggested use, SKU, and price.
 
