@@ -5,7 +5,10 @@ Coop Web Scraper
 Description
 This project is a web scraper designed to extract product information from the Coop UK website. The scraper gathers details such as product name, URL, brand name, description, ingredients, suggested use, SKU, and price.
 
+One thing user have to 1 time is do bot verification. then every single is automated
+
 Features
+- Auto postcode enter.
 - Scrapes product data from the Coop website.
 - Outputs data to an Excel file with auto-width columns.
 - Uses Selenium for web scraping and ChromeDriver for browser automation.
